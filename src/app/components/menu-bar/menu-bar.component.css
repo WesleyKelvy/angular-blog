@@ -1,0 +1,11 @@
+    .container__menu-bar>ul {
+        display: flex;
+    }
+
+    .container__menu-bar>ul>li {
+        display: flex;
+        margin-right: 2rem;
+
+
+
+    }
